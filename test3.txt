@@ -1,0 +1,4 @@
+n := 10;
+x := n;
+y := 1;
+while not x == 1 do {y := y * x; x := x - 1}.

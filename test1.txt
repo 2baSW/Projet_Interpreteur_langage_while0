@@ -1,0 +1,4 @@
+a := -2;
+b := -1;
+c := 7;
+if a < 0 and b < 0 and a+b > -2 then c := 1 else skip.
